@@ -6,3 +6,5 @@ Author: Colton Koop
 Language: Python, C#, and MATLAB.  
 Collaborators: Large contributions from project partner, David Bechert.  
 Starting Code: https://github.com/andrewleeunderwood/project_MYM and https://github.com/notnil/chesspic
+
+View the generated dataset here: https://www.kaggle.com/datasets/colkoop/synthetic-chessboard-data
